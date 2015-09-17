@@ -26,7 +26,7 @@ This is a 3 step process.
 	pip install -r requirements.txt
 	```
 
-2.	Now, download the driver for your browser from the internet. Chrome downloads are here... `http://chromedriver.storage.googleapis.com/index.html?path=2.19/` Download this file into the playtrivius folder.
+2.	Now, download the driver for your browser from the internet. Chrome downloads are here... [chromedriver](http://chromedriver.storage.googleapis.com/index.html?path=2.19/) Download (and expand) the executable file into the playtrivius folder. Make the file executable, if it is not - `chmod +x ./chromedriver`.
 
 3.	Create 'logged in' profile for your Trivius player.
 
