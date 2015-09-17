@@ -166,7 +166,7 @@ def main():
     time.sleep(1)
     clickPlayNow(el)
 
-    numGames = 200
+    numGames = 99999
 
     for x in range(numGames):
         time.sleep(2)
