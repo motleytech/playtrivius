@@ -1,0 +1,4 @@
+*.pyc
+profile/
+chromedriver
+venv
