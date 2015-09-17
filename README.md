@@ -39,7 +39,7 @@ This is a 3 step process.
 
 	These commands will open the browser to the triviusgame website. Manually login into the website (not as a guest). Chrome will remember the login info in the profile folder.
 
-	After the login, quit the browser (for osx users - quit the app, not just close the window), and stop (ctrl-c) the run.sh command. Ignore any errors that you see on the terminal when you exit.
+	After the login, if the game does not start playing automatically, quit the browser (for osx users - quit the app, not just close the window), and stop (ctrl-c) the run.sh command. Ignore any errors that you see on the terminal when run.sh exits. Run `./run.sh` again.
 
 Ready to play
 -------------
